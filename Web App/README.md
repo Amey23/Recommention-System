@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 3. After successfully installing all the required packages, run the flask web app.
 ```
-set FLASK_APP = app.py
+set FLASK_APP = main.py
 ```
 After successful execution of above command, run the last command.
 ```
